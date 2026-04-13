@@ -1,5 +1,3 @@
-# daphneplott.github.io
-
 ## Projects
 
 ### General Coding
@@ -12,6 +10,8 @@ Convex Hull, and alignment.
 
 I also had to opportunity to work a lot with agentic engineering. I've explored topics such as
 rag, tool calling, prompt engineering, and multi-agent systems. 
+
+Details of these projects can be found on [my github](https://github.com/daphneplott).
 
 ### Larger Projects
 
